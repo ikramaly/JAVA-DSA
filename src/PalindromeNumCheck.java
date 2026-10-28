@@ -21,6 +21,7 @@ public class PalindromeNumCheck {
             System.out.println(num+" <=> "+org_num);
         }else {
             System.out.println("No, "+org_num+" is not a palindrome num");
+            System.out.println("No, "+org_num+" is not a palindrome num");
         }
 
     }
