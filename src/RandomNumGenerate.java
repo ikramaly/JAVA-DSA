@@ -7,6 +7,7 @@ public class RandomNumGenerate {
         System.out.println(Math.random() * 10);
         System.out.println(Math.random() * 10);
         System.out.println(Math.random() *10);
+        System.out.println(Math.random() *10);
 
 
     }
