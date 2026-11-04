@@ -6,7 +6,6 @@ public class FactorialNumber {
             facto = facto * i;
         }
         System.out.println("factorial : "+facto);
-        System.out.println("factorial : "+facto);
 
     }
 }
