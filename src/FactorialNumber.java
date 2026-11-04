@@ -7,5 +7,6 @@ public class FactorialNumber {
         }
         System.out.println("factorial : "+facto);
         System.out.println("factorial : "+facto);
+        System.out.println("factorial : "+facto);
     }
 }
