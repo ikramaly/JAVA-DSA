@@ -16,6 +16,8 @@ public class SumOfArray {
             sum1 = sum1+val;
         }
         System.out.println("sum1 = "+sum1);
+        System.out.println("sum1 = "+sum1);
+        System.out.println("sum1 = "+sum1);
 
     }
 }
