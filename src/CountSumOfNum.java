@@ -10,6 +10,6 @@ public class CountSumOfNum {
             num = num/10;
             System.out.println(digit);
         }
-        System.out.println("Total sum : "+sum);
+        System.out.println("Total sum :"+sum);
     }
 }
