@@ -10,6 +10,7 @@ public class ReverseANumber {
 //        sb.append(num);
         StringBuilder rev = sb.reverse();
         System.out.println("Rev string : "+sb);
+        System.out.println("Rev string : "+sb);
 
     }
 }
