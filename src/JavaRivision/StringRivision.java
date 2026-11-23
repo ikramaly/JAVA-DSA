@@ -13,5 +13,6 @@ public class StringRivision {
         int d1 = (int) d;
         System.out.println(d);
         System.out.println(d1);
+        System.out.println(d1);
     }
 }
