@@ -12,7 +12,6 @@ public class StringRivision {
         double d = 1920.39;
         int d1 = (int) d;
         System.out.println(d);
-        System.out.println(d1);
-        System.out.println(d1);
+
     }
 }
