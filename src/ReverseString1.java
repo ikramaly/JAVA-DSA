@@ -12,7 +12,7 @@ public class ReverseString1 {
         System.out.println("Finally Reversed = "+revStr);
 
         // approach 2 -
-        String name = "Ikram";
+        String name = "Raja";
         char[] arr = name.toCharArray();
         String revName = "";
         for (int i=name.length()-1; i>=0; i-- ){
@@ -22,7 +22,7 @@ public class ReverseString1 {
 
         // approach 3 - by using buffer class;
 
-        String animals = "Dog";
+        String animals = "elephant";
         StringBuffer stringBuffer = new StringBuffer(animals);
         System.out.println(stringBuffer.length());
         StringBuffer revAnimals =  stringBuffer.reverse();
